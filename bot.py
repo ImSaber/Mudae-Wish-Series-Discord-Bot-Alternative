@@ -7,10 +7,10 @@ client = discord.Client()
 
 # Series lists for the server. Each variable is assigned different series depending on who is asking for what. (Replace the series with the ones you or your server want)
 player1_list = ['Persona 5', 'Re:Zero kara Hajimeru Isekai Seikatsu', 'Kimetsu no Yaiba', 'Oyasumi Punpun' , 'Kanojo, Okarishimasu' , 'Hori-san to Miyamura-kun', 'Mushoku Tensei']
-player2_list = ["Kimi to Boku no Saigo no Senjou", "Arui wa Sekai ga Hajimaru Seisen", "Fukakai na Boku no Subete wo", "Guilty Crown", "Tate no Yuusha no Nariagari" , "Ansatsu Kyoushitsu", "Gakusen Toshi Asterisk"]
-player3_list = ["No Game No Life", "Overlord", "Shuumatsu Nani Shitemasu ka", "Kamisama ni Natta Hi", "Ascendance of a Bookworm", "Watashi ni Tenshi ga Maiorita!", "Tales of Demons and Gods", "Solo Leveling", "Koe no Katachi", "Sora no Method", "Yamada-kun to 7-nin no Majo", "Mahou Shoujo Site", "Tower of God", "Boku wa Tomodachi ga Sukunai", "Tonikaku Cawaii", "BOFURI", "Karakuri Circus", "Absolute Duo"]
+player2_list = ["Kimi to Boku no Saigo no Senjou", "Arui wa Sekai ga Hajimaru Seisen", "Fukakai na Boku no Subete wo", "Guilty Crown", "Tate no Yuusha no Nariagari" , "Ansatsu Kyoushitsu"]
+player3_list = ["No Game No Life", "Overlord", "Shuumatsu Nani Shitemasu ka", "Kamisama ni Natta Hi", "Ascendance of a Bookworm", "Watashi ni Tenshi ga Maiorita!", "Tales of Demons and Gods", "Solo Leveling"]
 player4_list = ['Fire Emblem', 'Kobayashi-san Chi no Maid Dragon', 'monster']
-player5_list = ["Sin: Nanatsu no Taizai", "Kakegurui","Raise Kamika", "Yagate Kimi ni Naru", "Youjo Senki", "Hataage! Kemono Michi", "Machikado Mazoku", "Murenase! Shiiton Gakuen", "Sounan Desu Ka?", "Amagi Brilliant Park", "Sayonara no Asa ni Yakusoku no Hana wo Kazarou", "Kuzu no Honkai", "Prison School", "Chuunibyou demo Koi ga Shitai!", "Accel World", "Dies Irae Pantheon"]
+player5_list = ["Sin: Nanatsu no Taizai", "Kakegurui","Raise Kamika", "Yagate Kimi ni Naru", "Youjo Senki", "Hataage! Kemono Michi", "Machikado Mazoku", "Murenase! Shiiton Gakuen"]
 
 # Event to know the program is running
 @client.event
