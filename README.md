@@ -1,4 +1,6 @@
 # Mudae Wish Series Discord Bot Alternative
+
+## Disclaimer: If you enjoy Mudae, please support their discord bot. This code is for when you cannot afford to support the creator. Use at your own risk.
  
 ## What language does it use?
 - This code was written in python.
